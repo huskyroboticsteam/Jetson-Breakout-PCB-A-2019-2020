@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=NetJ1_1 Pin=U2-14
+Added Member To Class: ClassName=JetsonBreakout_SoC_1.0_EY Member=Component J3
+Added Member To Class: ClassName=JetsonBreakout_SoC_1.0_EY Member=Component J4

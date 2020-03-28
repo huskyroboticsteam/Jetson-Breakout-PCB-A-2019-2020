@@ -1,0 +1,18 @@
+Added Component: Designator=U1(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/tcan332.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TCAN332DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TCAN332DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TCAN332DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-3
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Pin To Net: NetName=NetJ2_4 Pin=U1-6
+Added Pin To Net: NetName=NetJ2_3 Pin=U1-7
+Added Member To Class: ClassName=JetsonBreakout_SoC_1.0_EY Member=Component J3
+Added Member To Class: ClassName=JetsonBreakout_SoC_1.0_EY Member=Component J4
+Added Member To Class: ClassName=JetsonBreakout_SoC_1.0_EY Member=Component U1
